@@ -1,0 +1,21 @@
+{
+  "name": "useful-functions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --coverage",
+    "test-watch": "jest --watch --coverage",
+    "tw": "jest --watch --coverage"
+  },
+  "dependencies": {
+    "@types/jest": "^24.0.23",
+    "ts-jest": "^24.1.0",
+    "tsc": "^1.20150623.0",
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.2"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
